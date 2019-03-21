@@ -1,5 +1,5 @@
 terraform.exe
-
+provider.tf
 # Local .terraform directories
 **/.terraform/*
 
