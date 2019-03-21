@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "rg" {
-  name     = "${var.ghrg}-resources"
+resource "azurerm_resource_group" "ghrg" {
+  name     = "gh-resources"
   location = "West US 2"
 }
